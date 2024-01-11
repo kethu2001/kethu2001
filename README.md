@@ -26,3 +26,4 @@
 ---
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kethu2001&show_icons=true&locale=en&layout=compact" alt="kethu2001" /></p>
+<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kethu2001&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>

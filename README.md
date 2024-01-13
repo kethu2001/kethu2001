@@ -29,19 +29,4 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center" width="500px" src="https://github-readme-stats.vercel.app/api?username=kethu2001&theme=dark&show_icons=true&count_private=true" />
-  
-</td>
 
-<td width="50%" align="center">
-
-  <img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=kethu2001&theme=dark&show_icons=true&locale=en&layout=compact" alt="kethu2001" />
-  
-  </td>
-</tr>
-</table>
